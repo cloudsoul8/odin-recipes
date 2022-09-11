@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(255, 255, 120);
+}
+
+.main-container {
+    background-color: rgb(254, 92, 92);
+    padding: 32px 48px;
+    width: 30%;
+
+}
+
+.anime {
+    border: solid 5px white;
+}
+
+h1 {
+    text-align: center;
+}
+
+.small-text {
+    margin: 0;
+    font-size: 8px;
+}
