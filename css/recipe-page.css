@@ -1,0 +1,7 @@
+body {
+   display: flex; 
+}
+.sidebar {
+    background-color: orange;
+    width: 30%;
+}
